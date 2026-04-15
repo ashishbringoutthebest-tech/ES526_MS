@@ -1,0 +1,11 @@
+
+In the Method Validation part of paper WyNDA (https://www.sciencedirect.com/science/article/pii/S2215016124000797?via%3Dihub)
+there are 4 examples
+
+Example 1: linear systems
+           It has "mass-spring-damper (MSD)" systems
+Example 2: nonlinear systems
+           It has "Lorentz systems, Rossler attractor, Lotka-Voltera equations, Van der pol oscillator"
+Example 3: control systems
+           It has 
+Example 4: parameter estimation
