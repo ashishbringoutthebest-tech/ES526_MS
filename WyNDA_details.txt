@@ -1,6 +1,8 @@
 
 In the Method Validation part of paper WyNDA (https://www.sciencedirect.com/science/article/pii/S2215016124000797?via%3Dihub)
-there are 4 examples
+Original github of WyNDA: https://github.com/agushasan/discovery
+
+There are 4 examples
 
 Example 1: linear systems
            It has "mass-spring-damper (MSD)" systems
