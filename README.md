@@ -96,7 +96,7 @@ Contributors of this project are,
 2. [Ashish Kumar](https://github.com/ashishbringoutthebest-tech)
 3. [Abhishek Kumar](https://github.com/abhishek01ds)
 4. [Sneha S Karun](https://github.com/snehaskarun22)
-5. [J Janasthuthi]()
+5. [J Janasthuthi](https://github.com/jjanasthuthi)
 
 
 ## Acknowledgement
