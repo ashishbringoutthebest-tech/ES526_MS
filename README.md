@@ -101,4 +101,4 @@ Contributors of this project are,
 
 ## Acknowledgement
 This project is a part of ES526 **Modelling & Simulation** subject. This project is not sponsored by any financial assistance. Contributors of this project are students of **MS Artificial Intelligence & Data Science**. 
-Many thanks to **Dr. Purnedu Mishra** and **Dr. Himanshu Jain** for guidance through the project.
+Many thanks to **Dr. Purnedu Mishra** and **Dr. Himanshu Jain** for their guidance throughout the project.
