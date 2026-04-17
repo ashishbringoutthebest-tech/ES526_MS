@@ -82,7 +82,9 @@ The Van der Pol oscillator model is an oscillating system with non-linear dampin
 <img width="990" height="790" alt="Parameter estimation with constant control input" src="https://github.com/user-attachments/assets/96a8a260-d1bc-4038-a9b8-2bcc8c6b568a" />
 
 ## Future Directions
-The future direction of the following work includes:-
+The future direction of the following work includes:
+
+Comparison of the number of data used by WyNDA with SINDy and ARGOS.
 
 | System                   | Algorithm | n     |
 | ------------------------ | --------- | ----- |
